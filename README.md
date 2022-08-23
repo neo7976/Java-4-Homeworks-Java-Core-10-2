@@ -20,8 +20,8 @@
 
 - Скачек после выполнения `11:23:17.008224300: loaded 2117 classes`.
 
-![](/src/main/resources/2. Скачек после подгрузки классов - 2.png)
+![](/src/main/resources/2.Скачек_2.png)
 
 - Скачек после выполнения `11:23:20.160995200: loaded 869 classes`.
 
-![](/src/main/resources/3. Скачек после подгрузки классов - 2.png)
+![](/src/main/resources/3.Скачек_2.png)
