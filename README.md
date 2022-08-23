@@ -13,12 +13,10 @@
 
 ## Анализ `Classes`
 
+- Скачек после `11:23:13.629776: loaded 529 classes`:
 
-
-
-![1](/src/main/resources/1. Скачек после подгрузки классов - 0.png)
-
-![1](/src/main/resources/1. Скачек после подгрузки классов - 2.png)
+![](/src/main/resources/1.Скачек_0.png)
+![](/src/main/resources/1.Скачек_2.png)
 
 - Скачек после выполнения `11:23:17.008224300: loaded 2117 classes`.
 
