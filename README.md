@@ -6,6 +6,9 @@
 
 ![](/src/main/resources/Общий_График_куча.png)
 ![](/src/main/resources/Общий_График_metaspace.png)
+
+- Сообщения в консоле IDEA: 
+
 ![](/src/main/resources/Idea.png)
 
 ## Анализ `Classes`
